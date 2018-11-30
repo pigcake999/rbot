@@ -1,0 +1,16 @@
+{
+  "name": "rbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rbot.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Barton Randall",
+  "license": "ISC"
+}
